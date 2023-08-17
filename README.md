@@ -1,5 +1,5 @@
 # TXMwand
-Code Snippets for TXM processing, written in MATLAB and Python, developed at TheLinLab, Virginia Tech.
+Code Snippets for TXM processing, written in MATLAB and Python
 Contacts: Dong Hou, Feng Lin
 
 Handy scripts for 3DTXM alignment, segmentation, morphology quantification, quick XANES fitting, XANES edge/peak energy distribution visualization and statistical analysis. 
